@@ -1,0 +1,5 @@
+# SSH client configuration file
+
+Host DESKTOP-5PEJQRU
+    IdentityFile ~/.ssh/school
+    PasswordAuthentication no
